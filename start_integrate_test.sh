@@ -47,6 +47,9 @@ array+=("timeout")
 # healthcheck
 array+=("healthcheck")
 
+# graceful shutdown
+array+=("graceful_shutdown")
+
 # streaming
 array+=("streaming")
 
